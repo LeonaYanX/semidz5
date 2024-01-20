@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "dz5dlya sebya/1.0.0": {
+        "runtime": {
+          "dz5dlya sebya.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dz5dlya sebya/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

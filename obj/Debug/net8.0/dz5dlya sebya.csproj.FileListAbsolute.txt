@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Desktop\VVvyazProg\dz5dlya sebya\obj\Debug\net8.0\dz5dlya sebya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\VVvyazProg\dz5dlya sebya\obj\Debug\net8.0\dz5dlya sebya.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\VVvyazProg\dz5dlya sebya\obj\Debug\net8.0\dz5dlya sebya.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\VVvyazProg\dz5dlya sebya\obj\Debug\net8.0\dz5dlya sebya.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\VVvyazProg\dz5dlya sebya\obj\Debug\net8.0\dz5dlya sebya.sourcelink.json
+C:\Users\User\OneDrive\Desktop\VVvyazProg\dz5dlya sebya\bin\Debug\net8.0\dz5dlya sebya.exe
+C:\Users\User\OneDrive\Desktop\VVvyazProg\dz5dlya sebya\bin\Debug\net8.0\dz5dlya sebya.deps.json
+C:\Users\User\OneDrive\Desktop\VVvyazProg\dz5dlya sebya\bin\Debug\net8.0\dz5dlya sebya.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\VVvyazProg\dz5dlya sebya\bin\Debug\net8.0\dz5dlya sebya.dll
+C:\Users\User\OneDrive\Desktop\VVvyazProg\dz5dlya sebya\bin\Debug\net8.0\dz5dlya sebya.pdb
+C:\Users\User\OneDrive\Desktop\VVvyazProg\dz5dlya sebya\obj\Debug\net8.0\dz5dlya sebya.dll
+C:\Users\User\OneDrive\Desktop\VVvyazProg\dz5dlya sebya\obj\Debug\net8.0\refint\dz5dlya sebya.dll
+C:\Users\User\OneDrive\Desktop\VVvyazProg\dz5dlya sebya\obj\Debug\net8.0\dz5dlya sebya.pdb
+C:\Users\User\OneDrive\Desktop\VVvyazProg\dz5dlya sebya\obj\Debug\net8.0\dz5dlya sebya.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\VVvyazProg\dz5dlya sebya\obj\Debug\net8.0\ref\dz5dlya sebya.dll

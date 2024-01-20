@@ -1,0 +1,9 @@
+﻿1>------ Build started: Project: dz5dlya sebya, Configuration: Debug ------
+1>C:\Users\User\OneDrive\Desktop\VVvyazProg\dz5dlya sebya\Program.cs(4,19,4,37): warning CS8600: Converting null literal or possible null value to non-nullable type.
+1>C:\Users\User\OneDrive\Desktop\VVvyazProg\dz5dlya sebya\Program.cs(6,21,6,39): warning CS8600: Converting null literal or possible null value to non-nullable type.
+1>C:\Users\User\OneDrive\Desktop\VVvyazProg\dz5dlya sebya\Program.cs(17,23,17,31): warning CS8604: Possible null reference argument for parameter 'input' in 'bool IsImputINT(string input)'.
+1>C:\Users\User\OneDrive\Desktop\VVvyazProg\dz5dlya sebya\Program.cs(20,20,20,38): warning CS8600: Converting null literal or possible null value to non-nullable type.
+1>C:\Users\User\OneDrive\Desktop\VVvyazProg\dz5dlya sebya\Program.cs(25,19,25,29): warning CS8604: Possible null reference argument for parameter 'input' in 'bool IsImputINT(string input)'.
+1>C:\Users\User\OneDrive\Desktop\VVvyazProg\dz5dlya sebya\Program.cs(28,18,28,36): warning CS8600: Converting null literal or possible null value to non-nullable type.
+1>  dz5dlya sebya -> C:\Users\User\OneDrive\Desktop\VVvyazProg\dz5dlya sebya\bin\Debug\net8.0\dz5dlya sebya.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
